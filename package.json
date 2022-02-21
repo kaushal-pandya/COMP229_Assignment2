@@ -1,0 +1,35 @@
+{
+  "name": "express-portfolio-site",
+  "version": "1.0.0",
+  "description": "comp229 assignment1",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "^16.13.2"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Pandya kaushal",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaushal-pandya/COMP229_Assignment1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kaushal-pandya/COMP229_Assignment1/issues"
+  },
+  "homepage": "https://github.com/kaushal-pandya/COMP229_Assignment1#readme"
+}
